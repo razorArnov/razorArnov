@@ -26,6 +26,9 @@ Here are some of my custom-engineered, scaled-up replicas and portable computing
 | :---: | :---: |
 | What started as a regular AA battery turned into a 470Wh giant Duracell built completely from scratch. | Made a Raspberry Pi CM5-based tablet that runs pretty much everything we throw at it. |
 
+| [<img src="https://hackster.imgix.net/uploads/attachments/1648508/_gUDYRN7XAU.blob?auto=compress%2Cformat&w=400&h=300&fit=min" width="280" /><br><sub>**SNES Controller XL**</sub>](https://www.hackster.io/Arnov_Sharma_makes/super-nintendo-entertainment-system-controller-xl-fe1108) | [<img src="https://hackster.imgix.net/uploads/attachments/1858719/_QnmJs0d6Em.blob?auto=compress%2Cformat&w=400&h=300&fit=min" width="280" /><br><sub>**Snake Game Console MAX**</sub>](https://www.hackster.io/Arnov_Sharma_makes/snake-game-console-max-f7ef8d) |
+| :---: | :---: |
+| Made a huge XL version of the SNES controller, probably the biggest SNES controller in the world? | An enlarged and updated version of the previously created Snake Game Console project. |
 
 ---
 
