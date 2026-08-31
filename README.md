@@ -18,7 +18,7 @@
 
 Here are some of my custom-engineered, scaled-up replicas and portable computing devices built completely from scratch:
 
-| [<img src="https://hackster.imgix.net/uploads/attachments/1950848/159_xyhsTggdUt.gif?auto=format%2Ccompress&gifq=35&w=400&h=300&fit=min" width="280" /><br><sub>**Motorola DynaTAC MAX**</sub>](https://www.hackster.io/Arnov_Sharma_makes/motorola-dynatac-max-e10b5b) | [<img src="https://hackster.imgix.net/uploads/attachments/1982796/_TucCMH3973.blob?auto=compress%2Cformat&w=400&h=300&fit=min" width="280" /><br><sub>**iBrick (Giant iPod)**</sub>](https://www.hackster.io/Arnov_Sharma_makes/ibrick-04341c) |
+| [<img src="motorola_dynatac_max.png" width="280" /><br><sub>**Motorola DynaTAC MAX**</sub>](https://www.hackster.io/Arnov_Sharma_makes/motorola-dynatac-max-e10b5b) | [<img src="https://hackster.imgix.net/uploads/attachments/1982796/_TucCMH3973.blob?auto=compress%2Cformat&w=400&h=300&fit=min" width="280" /><br><sub>**iBrick (Giant iPod)**</sub>](https://www.hackster.io/Arnov_Sharma_makes/ibrick-04341c) |
 | :---: | :---: |
 | A Motorola DynaTAC-themed Soundboard-Bluetooth Speaker made from scratch, powered by PICO W. | An IPOD NANO 3rd Gen-inspired giant iPod powered by Raspberry Pi CM5 and a custom 3D-printed shell. |
 
@@ -37,7 +37,7 @@ Explore some of my custom-designed electronics, IoT gadgets, and astromech desk 
 | :---: | :---: |
 | A tiny Wi-Fi radio built using the M5Stack AtomS3, a custom control webpage, a MAX98357A amplifier, and a speaker. | The updated version of my previously created SolMate, a portable solar power bank. |
 
-| [<img src="https://hackster.imgix.net/uploads/attachments/1983972/33_gRhlgtcw4I.gif?auto=format%2Ccompress&gifq=35&w=400&h=300&fit=min" width="280" /><br><sub>**PolyShot Camera**</sub>](https://www.hackster.io/Arnov_Sharma_makes/polyshot-point-and-shoot-camera-9dfa62) | [<img src="https://hackster.imgix.net/uploads/attachments/1964783/_iWK074lA16.blob?auto=compress%2Cformat&w=400&h=300&fit=min" width="280" /><br><sub>**Stationery Unit D2**</sub>](https://www.hackster.io/Arnov_Sharma_makes/stationery-unit-d2-1e7b8b) |
+| [<img src="polyshot_camera.png" width="280" /><br><sub>**PolyShot Camera**</sub>](https://www.hackster.io/Arnov_Sharma_makes/polyshot-point-and-shoot-camera-9dfa62) | [<img src="https://hackster.imgix.net/uploads/attachments/1964783/_iWK074lA16.blob?auto=compress%2Cformat&w=400&h=300&fit=min" width="280" /><br><sub>**Stationery Unit D2**</sub>](https://www.hackster.io/Arnov_Sharma_makes/stationery-unit-d2-1e7b8b) |
 | :---: | :---: |
 | An open-source point-and-shoot camera I built from scratch. | It's an Interactive R2-D2 desk assistant, powered by ESP32 P4, and serves as an astromech companion that plays custom GIFs via a web app. |
 
