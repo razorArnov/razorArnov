@@ -21,6 +21,3 @@
 
 ---
 
-*“Scanning for targets... Secure connection established.”*
-
-*Note: You can also switch to the [Classic Green Theme](pipboy_scan_green.svg) by updating the image source in this README.*
