@@ -18,7 +18,7 @@
 
 Here are some of my custom-engineered, scaled-up replicas and portable computing devices built completely from scratch:
 
-| [<img src="https://hackster.imgix.net/uploads/attachments/1950848/159_xyhsTggdUt.gif?auto=format%2Ccompress&gifq=35&w=400&h=300&fit=min" width="280" /><br><sub>**Motorola DynaTAC MAX**</sub>](https://www.hackster.io/Arnov_Sharma_makes/motorola-dynatac-max-e10b5b) | [<img src="https://hackster.imgix.net/uploads/attachments/1982796/_TucCMH3973.blob?auto=compress%2Cformat&w=400&h=300&fit=min" width="280" /><br><sub>**iBrick (Giant iPod)**</sub>](https://www.hackster.io/Arnov_Sharma_makes/ibrick-04341c) |
+| [<img src="motorola_dynatac_max.png" width="280" /><br><sub>**Motorola DynaTAC MAX**</sub>](https://www.hackster.io/Arnov_Sharma_makes/motorola-dynatac-max-e10b5b) | [<img src="https://hackster.imgix.net/uploads/attachments/1982796/_TucCMH3973.blob?auto=compress%2Cformat&w=400&h=300&fit=min" width="280" /><br><sub>**iBrick (Giant iPod)**</sub>](https://www.hackster.io/Arnov_Sharma_makes/ibrick-04341c) |
 | :---: | :---: |
 | A Motorola DynaTAC-themed Soundboard-Bluetooth Speaker made from scratch, powered by PICO W. | An IPOD NANO 3rd Gen-inspired giant iPod powered by Raspberry Pi CM5 and a custom 3D-printed shell. |
 
@@ -459,4 +459,3 @@ Explore the full inventory of projects, schematics, and codebases across platfor
 
 *“Scanning for targets... Secure connection established.”*
 
-*Note: You can also switch to the [Classic Green Theme](pipboy_scan_green.svg) by updating the image source in this README.*
