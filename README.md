@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Arnov! 👋
 
-<!--
-**razorArnov/razorArnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="pipboy_scan_amber.svg" width="550" alt="Pip-Boy HUD Terminal" />
+</div>
 
-Here are some ideas to get you started:
+### 🖥️ Active System Profile
+- **Role**: Software Developer & Tech Enthusiast
+- **Location**: India
+- **System Status**: Online & Active
+- **Cognitive Modifiers**:
+  - `[+] Well Coded` (+10% Programming Efficiency)
+  - `[+] Hardware Sync` (+1 Electronics Skill)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack & Gear
+- **Languages**: JavaScript, Python, C++, Arduino/C
+- **Platforms**: ESP32, Linux, macOS
+- **Interests**: Retro-hardware development, microcontrollers, IoT, game replicas
+
+---
+
+*“Scanning for targets... Secure connection established.”*
+
+*Note: You can also switch to the [Classic Green Theme](pipboy_scan_green.svg) by updating the image source in this README.*
