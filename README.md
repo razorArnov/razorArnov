@@ -44,6 +44,9 @@ Explore some of my custom-designed electronics, IoT gadgets, and astromech desk 
 | :---: | :---: |
 | An open-source point-and-shoot camera I built from scratch. | It's an Interactive R2-D2 desk assistant, powered by ESP32 P4, and serves as an astromech companion that plays custom GIFs via a web app. |
 
+| [<img src="rgb_mask.jpg" width="280" /><br><sub>**Overengineered RGB Mask**</sub>](https://www.hackster.io/Arnov_Sharma_makes/overengineered-rgb-mask-7cf017) | [<img src="https://hackster.imgix.net/uploads/attachments/1975496/_HwW47Mb9QR.blob?auto=compress%2Cformat&w=400&h=300&fit=min" width="280" /><br><sub>**Project Gestalt**</sub>](https://www.hackster.io/Arnov_Sharma_makes/project-gestalt-89d1fe) |
+| :---: | :---: |
+| An open-source, custom-made wearable face mask featuring responsive RGB matrices and animation controls. | Nier Pod-inspired interactive 64x64 RGB matrix display featuring custom animations and a sound-reactive mode. |
 
 ---
 
